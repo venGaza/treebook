@@ -10,7 +10,11 @@ gem 'devise'
 gem 'simple_form'
 
 group :development, :test do
-	gem 'sqllite3'
+	gem 'sqlite3'
+end
+
+group :production do
+	gem "pg"
 end
 
 # Use SCSS for stylesheets
