@@ -5,3 +5,11 @@ dustin:
 	profile_name: "dustinjones"
 	password: "kojak1280"
 	password_confirmation: "password"
+
+jim:
+	first_name: "jim"
+	last_name: "hoskins"
+	email: "jim@teamtreehouse.com"
+	profile_name: "jimhoskins"
+	password: "abcdefgh"
+	password_confirmation: "password"
